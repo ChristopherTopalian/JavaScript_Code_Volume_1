@@ -1,7 +1,7 @@
 javascript:(
 /* Dedicated to God the Father */
 
-/* All Rights Reserved Copyright Christopher Topalian 2000-2023 */
+/* All Rights Reserved Christopher Topalian Copyright 2000-2023 */
 
 /* https://github.com/ChristopherTopalian */
 
