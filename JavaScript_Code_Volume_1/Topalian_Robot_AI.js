@@ -103,7 +103,7 @@ function()
             {
                 let randomIndex = Math.floor(Math.random() * responseObj.responses.length);
 
-      alert(responseObj.responses[randomIndex]);
+                alert(responseObj.responses[randomIndex]);
 
                 if (responseObj.keywords.indexOf("bye") !== -1)
                 {
@@ -126,7 +126,7 @@ function()
                 {
                     let randomIndex = Math.floor(Math.random() * randomResponses.length);
 
-               alert(randomResponses[randomIndex]);
+                    alert(randomResponses[randomIndex]);
                 }
             }
 
